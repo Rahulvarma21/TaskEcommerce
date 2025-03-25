@@ -2,7 +2,7 @@
 
 A modern e-commerce website with product listings, quick-view popups, and cart functionality.
 
-![Second Hand Market]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNajEGPrRVTkhMEzO_BcemnZoyL4PQ0DYKsg&s](https://drive.google.com/file/d/14rZlT29aaoOk2pvr62FpwLZXA-guvf7X/view?usp=sharing))
+![Demo Screenshot]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNajEGPrRVTkhMEzO_BcemnZoyL4PQ0DYKsg&s](https://drive.google.com/file/d/14rZlT29aaoOk2pvr62FpwLZXA-guvf7X/view?usp=sharing))
 
 ## Features
 
