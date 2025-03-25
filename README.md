@@ -2,7 +2,7 @@
 
 A modern e-commerce website with product listings, quick-view popups, and cart functionality.
 
-![Demo Screenshot]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNajEGPrRVTkhMEzO_BcemnZoyL4PQ0DYKsg&s](https://drive.google.com/file/d/14rZlT29aaoOk2pvr62FpwLZXA-guvf7X/view?usp=sharing))
+
 
 ## Features
 
@@ -20,7 +20,7 @@ A modern e-commerce website with product listings, quick-view popups, and cart f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
+   [git clone https://github.com/yourusername/ecommerce-website.git](https://github.com/Rahulvarma21/TaskEcommerce.git)
 2. Run the code
     ```bash
     npm run dev
