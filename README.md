@@ -2,7 +2,7 @@
 
 A modern e-commerce website with product listings, quick-view popups, and cart functionality.
 
-
+![Store](https://github.com/Rahulvarma21/TaskEcommerce/blob/e2cb86d0d611c4ff86711adeb9fa62bb2c5a9697/Screenshot%202025-03-25%20at%209.15.35%E2%80%AFPM.png)
 
 ## Features
 
