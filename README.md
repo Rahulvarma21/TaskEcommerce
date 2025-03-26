@@ -14,7 +14,10 @@ A modern e-commerce website with product listings, quick-view popups, and cart f
 ## Technologies Used
 
 - **Frontend**: ReactJs, TailwindCSS 
-- **Deployment**: Netlify 
+- **Deployment**: Netlify
+
+## Site Link
+- https://taskecommerce1.netlify.app
 
 ## Installation
 
